@@ -1,7 +1,7 @@
 # Car-Segmentation
 
 
-
+Based on [Pix2Pix](https://arxiv.org/pdf/1611.07004.pdf) / [Tensorflow Pix2Pix](https://www.tensorflow.org/tutorials/generative/pix2pix).
 
 
 
